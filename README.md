@@ -20,6 +20,9 @@ Hi! I am Bornov, also known as WizardBornov or WizB for short. I am an Electroni
 </details>
 
 
+---
+> Don't cry because it's over, smile because it happened, for no matter what happens, life must go on.
+
 
 <!---
 WizardBornov/WizardBornov is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
