@@ -21,7 +21,8 @@ Hi! I am Bornov, also known as WizardBornov or WizB for short. I am an Electroni
 
 
 ---
-> Don't cry because it's over, smile because it happened, for no matter what happens, life must go on.
+> Don't be sad because it's over, be happy that it happened in the first place, for no matter what, life must go on...
+  -WizardBornov
 
 
 <!---
