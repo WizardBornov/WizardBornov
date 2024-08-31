@@ -16,12 +16,14 @@ Hi! I am Bornov, also known as WizardBornov or WizB for short. I am an Electroni
 |     1|   Python      |
 |     2|   C           |
 |     3|   C++         |
+|     4|   JavaScript  |
+|     5|   Html and CSS|
 
 </details>
 
 
 ---
-> Sleeo schedule? What's that?....
+> Sleep schedule? What's that?....
   -WizardBornov
 
 
