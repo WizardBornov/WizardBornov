@@ -1,7 +1,7 @@
 <picture>
- <source media="(prefers-color-scheme: dark)" srcset="yt logo made by kai.jpg">
- <source media="(prefers-color-scheme: light)" srcset="yt logo made by kai.jpg">
- <img alt="Magicial Owl" src="yt logo made by kai.jpg">
+ <source media="(prefers-color-scheme: dark)" srcset="yt logo made by kai.jpg" height = "200">
+ <source media="(prefers-color-scheme: light)" srcset="yt logo made by kai.jpg" height = "200">
+ <img alt="Magicial Owl" src="yt logo made by kai.jpg" height = "200">
 </picture>
 
 ## About Me
