@@ -1,7 +1,7 @@
 <picture>
- <source media="(prefers-color-scheme: dark)" srcset="https://imgur.com/a/eeUBe3n">
- <source media="(prefers-color-scheme: light)" srcset="https://imgur.com/a/eeUBe3n">
- <img alt="Magicial Owl" src="https://imgur.com/a/eeUBe3n">
+ <source media="(prefers-color-scheme: dark)" srcset="yt logo made by kai.jpg">
+ <source media="(prefers-color-scheme: light)" srcset="yt logo made by kai.jpg">
+ <img alt="Magicial Owl" src="yt logo made by kai.jpg">
 </picture>
 
 ## About Me
