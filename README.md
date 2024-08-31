@@ -1,7 +1,7 @@
 <picture>
- <source media="(prefers-color-scheme: dark)" srcset="https://imgur.com/asCafYj">
- <source media="(prefers-color-scheme: light)" srcset="https://imgur.com/asCafYj">
- <img alt="Magicial Owl" src="https://imgur.com/asCafYj">
+ <source media="(prefers-color-scheme: dark)" srcset="https://imgur.com/a/eeUBe3n">
+ <source media="(prefers-color-scheme: light)" srcset="https://imgur.com/a/eeUBe3n">
+ <img alt="Magicial Owl" src="https://imgur.com/a/eeUBe3n">
 </picture>
 
 ## About Me
@@ -21,7 +21,7 @@ Hi! I am Bornov, also known as WizardBornov or WizB for short. I am an Electroni
 
 
 ---
-> Don't be sad because it's over, be happy that it happened in the first place, for no matter what, life must go on...
+> Sleeo schedule? What's that?....
   -WizardBornov
 
 
