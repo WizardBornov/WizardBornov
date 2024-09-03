@@ -1,0 +1,24 @@
+html{
+    background-image: linear-gradient(to right, darkslateblue,black);
+}
+h4{
+    color:gainsboro;
+}
+h1{
+    color: blueviolet;
+}
+h2{
+    color: blueviolet;
+}
+h3{
+    color: gainsboro;
+}
+ul{
+    color: darkturquoise;
+}
+hr{
+    color: black;
+}
+a{
+    color: darkturquoise;
+}
