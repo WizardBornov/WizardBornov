@@ -5,30 +5,26 @@ html{
     font-size: x-large;
 }
 h4{
-    color:gainsboro;
+    color: gray;
     font-size: medium;
 }
 h1{
-    color: blueviolet;
-
-}
-h2{
-    color: blueviolet;
-
-}
-h3{
     color: gainsboro;
 
 }
+h2{
+    color: gainsboro;
+
+}
+h3{
+    color: rgb(18, 5, 76);
+
+}
 ul{
-    color: darkturquoise;
+    color: gainsboro;
 
 }
 
-a{
-    color: darkturquoise;
-
-}
 .introduction{
     padding-left: 200px;
     font-family: "Handjet", sans-serif;
