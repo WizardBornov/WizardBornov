@@ -1,9 +1,12 @@
 html{
-    background-image: linear-gradient(to right, darkslateblue,black);
+    background-image: linear-gradient(to right, black, rgb(98, 17, 185),black);
     font-size: larger;
+    font-family: "Handjet", sans-serif;
+    font-size: x-large;
 }
 h4{
     color:gainsboro;
+    font-size: medium;
 }
 h1{
     color: blueviolet;
@@ -28,12 +31,20 @@ a{
 }
 .introduction{
     padding-left: 200px;
+    font-family: "Handjet", sans-serif;
+    font-optical-sizing: auto;
+    font-weight: 400;
+    font-style: normal;
+    font-variation-settings:
+        "ELGR" 1,
+        "ELSH" 2;
 }
 #profile_img{
     padding-right: 200px;
 }
 #greet{
     padding-top: 75px;
+    font-size: larger;
 }
 #role{
     padding-bottom: 75px;
@@ -45,8 +56,13 @@ a{
     text-align: center;
     text-align-last: center;
     padding-left: 40px;
+    font-size: xx-large;
+    font-weight: bold;
 }
 .lists{
     text-align: justify;
     text-align-last: center;
+}
+#I_am{
+    font-size: larger;
 }
