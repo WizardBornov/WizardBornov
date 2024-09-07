@@ -1,7 +1,7 @@
 html{
     background-image: linear-gradient(to right, darkslateblue,black);
     font-size: larger;
-    
+
 }
 h4{
     color:gainsboro;
@@ -22,9 +22,7 @@ ul{
     color: darkturquoise;
 
 }
-hr{
-    color: black;
-}
+
 a{
     color: darkturquoise;
 
