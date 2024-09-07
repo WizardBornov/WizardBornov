@@ -1,7 +1,6 @@
 html{
     background-image: linear-gradient(to right, darkslateblue,black);
     font-size: larger;
-
 }
 h4{
     color:gainsboro;
@@ -26,4 +25,28 @@ ul{
 a{
     color: darkturquoise;
 
+}
+.introduction{
+    padding-left: 200px;
+}
+#profile_img{
+    padding-right: 200px;
+}
+#greet{
+    padding-top: 75px;
+}
+#role{
+    padding-bottom: 75px;
+}
+#creations{
+    padding-top: 50px;
+}
+.titles{
+    text-align: center;
+    text-align-last: center;
+    padding-left: 40px;
+}
+.lists{
+    text-align: justify;
+    text-align-last: center;
 }
