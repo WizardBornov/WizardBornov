@@ -4,6 +4,12 @@ html{
     font-family: "Handjet", sans-serif;
     font-size: x-large;
 }
+.my_intro{
+    padding-left: 100px;
+    padding-top: 70px;
+    padding-bottom: 70px;
+    background-color: rgba(0, 0, 0, 0.49);
+}
 h4{
     color: rgb(126, 109, 189);
     font-size: medium;
@@ -26,7 +32,6 @@ ul{
 }
 
 .introduction{
-    padding-left: 200px;
     font-family: "Handjet", sans-serif;
     font-optical-sizing: auto;
     font-weight: 400;
@@ -39,12 +44,9 @@ ul{
     padding-right: 200px;
 }
 #greet{
-    padding-top: 75px;
     font-size: larger;
 }
-#role{
-    padding-bottom: 75px;
-}
+
 #creations{
     padding-top: 50px;
 }
