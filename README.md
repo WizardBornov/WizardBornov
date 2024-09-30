@@ -21,6 +21,8 @@ Hi! I am Bornov, also known as WizardBornov or WizB for short. I am an Electroni
 
 </details>
 
+My portfolio website: https://wizardbornov.github.io/WizardBornov/
+
 
 ---
 > Sleep schedule? What's that?....
