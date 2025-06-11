@@ -6,27 +6,42 @@
 
 ## About Me
 
-Hi! I am Bornov, also known as WizardBornov or WizB for short. I am an Electronics and Communications Engineering student with a passion for programming and tech development.
+# 👋 Hey there, I'm Bornov!
 
-<details>
-<summary>My top Programming Languages </summary>
+> a.k.a **WizB** 
 
-| Rank |   Languages   |
-|-----:|---------------|
-|     1|   Python      |
-|     2|   C           |
-|     3|   C++         |
-|     4|   JavaScript  |
-|     5|   Html and CSS|
+I'm an ECE undergrad at NIT Silchar with my compass locked onto **Cybersecurity**, especially the **Red Teaming** side of things. I vibe with terminals, exploits, and peeling back digital layers — but my core? Always learning, always evolving.
 
-</details>
+### 🧠 Current Phase:
+- 🛠 Diving deep into Networking
+- ⚔️ Learning tools like `Nmap`, `Wireshark`, etc
+- 🐧Building a strong foundation in Linux
+- 💀 Developing a Red Team mindset
+- ✍️ Blogging my journey — one log at a time
 
-My portfolio website: https://wizardbornov.github.io/WizardBornov/
-
+### 🔥 What drives me?
+I’m not the most disciplined, but more of a spontaneous spark. Give me a purpose, and I’ll burn through distractions (RIP to my 400GB Steam library 💀). I believe in raw progress, deep focus, and carving my own path — one script, one exploit, one story at a time.
 
 ---
-> Sleep schedule? What's that?....
-  -WizardBornov
+
+### 🗂️ Explore: [Cipher's Log 🚪](https://github.com/WizardBornov/redteam-journal)
+
+> My personal cybersec journey — complete with learnings, tools, configs, and some poetic chaos. If you're into red teaming or just starting your own path, maybe you'll find a spark in there too.
+
+---
+
+### ⚡ Quick Bits:
+- 📍 Assam, India
+- 🎮 Once a gamer, always a gamer
+- ✨ Amateur poet. 
+- 🤝 Let’s connect if you’re vibing with cybersec, tech, or the human behind the screen.
+
+---
+  >“Sleep schedule? What's that?....”
+            -Bornov  
+                             
+
+
 
 
 <!---
