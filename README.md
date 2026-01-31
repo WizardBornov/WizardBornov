@@ -10,17 +10,10 @@
 
 > a.k.a **WizB** 
 
-I'm an ECE undergrad at NIT Silchar with my compass locked onto **Cybersecurity**, especially the **Red Teaming** side of things. I vibe with terminals, exploits, and peeling back digital layers — but my core? Always learning, always evolving.
-
-### 🧠 Current Phase:
-- 🛠 Diving deep into Networking
-- ⚔️ Learning tools like `Nmap`, `Wireshark`, etc
-- 🐧Building a strong foundation in Linux
-- 💀 Developing a Red Team mindset
-- ✍️ Blogging my journey — one log at a time
+I'm an ECE undergrad at NIT Silchar with my compass locked onto **Cybersecurity**, especially the **DFIR and Threat Hunting** side of things. 
 
 ### 🔥 What drives me?
-I’m not the most disciplined, but more of a spontaneous spark. Give me a purpose, and I’ll burn through distractions (RIP to my 400GB Steam library 💀). I believe in raw progress, deep focus, and carving my own path — one script, one exploit, one story at a time.
+I’m not the most disciplined, but more of a spontaneous spark. Give me a purpose, and I’ll burn through distractions (RIP to my 400GB Steam library 💀). I believe in raw progress, deep focus, and carving my own path.
 
 ---
 
