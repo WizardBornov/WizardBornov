@@ -25,7 +25,7 @@ I’m not the most disciplined, but more of a spontaneous spark. Give me a purpo
 
 ---
 **Portfolio Website:** https://wizardbornov.github.io/Portfolio/
-My Resume: https://github.com/WizardBornov/WizardBornov/blob/28efa283c8236d013697ec9d499bad85864f8f4b/resume-3.pdf
+**My Resume**: https://github.com/WizardBornov/WizardBornov/blob/f6471eaba551970b46466451dbbb574691a18c59/bornov-shyam-kalita-resume.pdf
 ---
 
 ### ⚡ Quick Bits:
